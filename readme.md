@@ -1,12 +1,4 @@
----
-title: Arrays & Hashes
-type: lab
-duration: "1:25"
-creator:
-    name: Micah Rich
-    city: LA
-competencies: Programming
----
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 # Arrays & Hashes
 
@@ -19,7 +11,7 @@ In order to create your class roster, your task is to write a few methods to int
 
 ## Exercise
 
-#### Requirements 
+#### Requirements
 
 - Write five methods:
 
@@ -55,7 +47,7 @@ You should be able to copy & paste into IRB, require it in IRB, or run it in you
 
 ## Additional Resources
 
-Keep in mind: the requirements above will require methods and ideas we haven't yet covered, so you'll need to get on the web and find ways to accomplish these requirements. As part of your journey learning to become a developer, you must utilize documentation to help you write the code that accomplishes your goals. 
+Keep in mind: the requirements above will require methods and ideas we haven't yet covered, so you'll need to get on the web and find ways to accomplish these requirements. As part of your journey learning to become a developer, you must utilize documentation to help you write the code that accomplishes your goals.
 
 - http://ruby-doc.org/core-2.2.2/Array.html
 - http://ruby-doc.org/core-2.2.2/Hash.html
